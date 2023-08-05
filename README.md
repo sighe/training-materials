@@ -10,7 +10,10 @@ Ensembl [https://asia.ensembl.org/](https://asia.ensembl.org/)
 [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
 
 ## Analytycal tools
+MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.jp/alignment/server/index.html)
+
 ｇVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
+
 aLeaves [https://aleaves.riken.jp/aleaves/](https://aleaves.riken.jp/aleaves/)
 
 ## Other web sites
