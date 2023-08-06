@@ -1,0 +1,8 @@
+>sequence1 length=8
+ATCGATCG
+>sequence2 length=16
+ATCGATCGATCGATCG
+>sequence3 length=24
+ATCGATCGATCGATCGATCGATCG
+>sequence4 length=32
+ATCGATCGATCGATCGATCGATCGATCGATCG
