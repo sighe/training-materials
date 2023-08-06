@@ -7,6 +7,7 @@ a. NCBI [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
 
 b. Ensembl [https://asia.ensembl.org/](https://asia.ensembl.org/)
 
+c. [UCSC Genome Browser](https://genome-asia.ucsc.edu/cgi-bin/hgGateway?redirect=manual&source=genome.ucsc.edu)
 
 ## 2. Analytical tools
 a. MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.jp/alignment/server/index.html)
