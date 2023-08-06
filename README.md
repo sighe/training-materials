@@ -13,7 +13,7 @@ Ensembl [https://asia.ensembl.org/](https://asia.ensembl.org/)
 
 [OneZoom Tree of Life Explorer](https://www.onezoom.org/)
 
-## Analytycal tools
+## Analytical tools
 MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.jp/alignment/server/index.html)
 
 ｇVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
