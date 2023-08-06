@@ -2,7 +2,7 @@
 Repository of files used as materials for teaching and training
 
 
-## 1. Useful web sites
+## 1. Useful sequence database and tools
 a. NCBI [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
 
 b. Ensembl [https://asia.ensembl.org/](https://asia.ensembl.org/)
