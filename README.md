@@ -20,7 +20,7 @@ b. gVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
 
 c. aLeaves [https://aleaves.riken.jp/aleaves/](https://aleaves.riken.jp/aleaves/)
 
-## Other web sites
+## 3. Other web sites
 
 a. [Genome sequence data availability
 for species in the
