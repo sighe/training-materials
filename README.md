@@ -37,4 +37,6 @@ e. [OneZoom Tree of Life Explorer](https://www.onezoom.org/)
 
 a. [Sequence search example at NCBI](https://www.ncbi.nlm.nih.gov/nuccore/?term=2023%2F01%2F01%3A2023%2F08%2F10%5Bpdat%5D+AND+Chondrichthyes%5BOrganism%5D+AND+1000%3A50000%5Bslen%5D+NOT+mitochondrion%5Btitle%5D+NOT+partial%5Btitle%5D)
 
+b. [Mouse FoxG1 entry at NCBI](https://www.ncbi.nlm.nih.gov/gene/15228/)
+
 
