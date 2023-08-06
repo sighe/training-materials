@@ -16,7 +16,7 @@ e. [OneZoom Tree of Life Explorer](https://www.onezoom.org/)
 ## 2. Analytical tools
 a. MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.jp/alignment/server/index.html)
 
-b. ｇVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
+b. gVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
 
 c. aLeaves [https://aleaves.riken.jp/aleaves/](https://aleaves.riken.jp/aleaves/)
 
