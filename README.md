@@ -18,6 +18,8 @@ c. aLeaves [https://aleaves.riken.jp/aleaves/](https://aleaves.riken.jp/aleaves/
 
 d. [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
 
+e. [JBrowse2](https://jbrowse.org/jb2/) - the next-generation genome browser
+
 
 ## 3. Other web sites
 
