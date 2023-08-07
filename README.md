@@ -20,7 +20,7 @@ d. [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
 
 e. [JBrowse2](https://jbrowse.org/jb2/) - the next-generation genome browser
 
-f. [D-Genies](https://dgenies.toulouse.inra.fr/)
+f. [D-Genies](https://dgenies.toulouse.inra.fr/) - for dot plot large genomes in an interactive, efficient and simple way
 
 
 ## 3. Other web sites
