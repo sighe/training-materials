@@ -1,4 +1,4 @@
-# training-materials
+# Training-materials
 Repository of files used as materials for teaching and training
 
 
