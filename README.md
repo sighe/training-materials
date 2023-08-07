@@ -20,6 +20,8 @@ d. [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
 
 e. [JBrowse2](https://jbrowse.org/jb2/) - the next-generation genome browser
 
+f. [D-Genies](https://dgenies.toulouse.inra.fr/)
+
 
 ## 3. Other web sites
 
