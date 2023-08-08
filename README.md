@@ -22,6 +22,8 @@ e. [JBrowse2](https://jbrowse.org/jb2/) - the next-generation genome browser
 
 f. [D-Genies](https://dgenies.toulouse.inra.fr/) - for dot plot large genomes in an interactive, efficient and simple way
 
+g. [Animal Genome Size Database](https://www.genomesize.com/)
+
 
 ## 3. Other web sites
 
