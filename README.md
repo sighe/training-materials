@@ -45,7 +45,7 @@ a. [Sequence search example at NCBI](https://www.ncbi.nlm.nih.gov/nuccore/?term=
 
 b. [Mouse FoxG1 entry at NCBI](https://www.ncbi.nlm.nih.gov/gene/15228/)
 
-c. [Example tree for FoxG1 genes and their relatives](https://www.nature.com/articles/s41559-018-0673-5/figures/4)
+c. [Example tree for FoxG1 genes and their relatives](https://www.nature.com/articles/s41559-018-0673-5/figures/4) (Hara et al., 2018)
 
 d. Whale shark rhodopsin evolution ( [English](https://www.pnas.org/doi/10.1073/pnas.2220728120) | [Japanese](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html) ) 
 
