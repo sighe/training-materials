@@ -9,6 +9,8 @@ b. Ensembl [https://asia.ensembl.org/](https://asia.ensembl.org/)
 
 c. [UCSC Genome Browser](https://genome-asia.ucsc.edu/cgi-bin/hgGateway?redirect=manual&source=genome.ucsc.edu)
 
+d. [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/)
+
 ## 2. Analytical tools
 a. MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.jp/alignment/server/index.html)
 
