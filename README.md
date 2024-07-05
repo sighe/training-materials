@@ -16,7 +16,7 @@ a. MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.
 
 b. gVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
 
-c. aLeaves [https://aleaves.riken.jp/aleaves/](https://aleaves.riken.jp/aleaves/)
+c. aLeaves [https://treethinkers.nig.ac.jp/aleaves/](https://treethinkers.nig.ac.jp/aleaves/)
 
 d. [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
 
