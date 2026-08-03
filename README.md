@@ -14,10 +14,6 @@ d. [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/)
 ## 2. Analytical tools
 a. MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.jp/alignment/server/index.html)
 
-b. gVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
-
-c. aLeaves [https://treethinkers.nig.ac.jp/aleaves/](https://treethinkers.nig.ac.jp/aleaves/)
-
 d. [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
 
 e. [JBrowse2](https://jbrowse.org/jb2/) - the next-generation genome browser
