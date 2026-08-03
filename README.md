@@ -14,15 +14,11 @@ d. [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/)
 ## 2. Analytical tools
 a. MAFFT [https://mafft.cbrc.jp/alignment/server/index.html](https://mafft.cbrc.jp/alignment/server/index.html)
 
-b. gVolante [https://gvolante.riken.jp/](https://gvolante.riken.jp/)
+b. [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
 
-c. aLeaves [https://treethinkers.nig.ac.jp/aleaves/](https://treethinkers.nig.ac.jp/aleaves/)
+c. [JBrowse2](https://jbrowse.org/jb2/) - the next-generation genome browser
 
-d. [EBI EMBOSS Sequence Translation](https://www.ebi.ac.uk/Tools/st/)
-
-e. [JBrowse2](https://jbrowse.org/jb2/) - the next-generation genome browser
-
-f. [D-Genies](https://dgenies.toulouse.inra.fr/) - for dot plot large genomes in an interactive, efficient and simple way
+d. [D-Genies](https://dgenies.toulouse.inra.fr/) - for dot plot large genomes in an interactive, efficient and simple way
 
 
 ## 3. Other web sites
